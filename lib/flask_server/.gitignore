@@ -1,0 +1,14 @@
+# Arquivos Python
+*.pyc
+__pycache__/
+
+# Ambiente virtual Python (venv)
+venv/
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp

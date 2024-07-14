@@ -1,0 +1,1 @@
+ /home/alxp/Documentos/eletromidia/flutter/flutter-flask4/.dart_tool/flutter_build/4b800ecc272d5a123558e2c6001fcddf/native_assets.yaml: 

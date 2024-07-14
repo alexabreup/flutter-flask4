@@ -1,0 +1,12 @@
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/flutter_flaskapp3
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/alxp/Documentos/eletromidia/flutter/flutter-flask4/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
